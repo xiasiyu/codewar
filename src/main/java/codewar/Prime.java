@@ -1,5 +1,7 @@
 package codewar;
 
+
+//2020.5.28
 public class Prime {
     public static boolean isPrime(int num) {
         if(num < 2) return false;
